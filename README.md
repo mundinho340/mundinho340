@@ -6,7 +6,7 @@
 
 ![Chigarisso GitHub stats](https://github-readme-stats.vercel.app/api?username=mundinho340&show_icons=true&theme=tokyonight)
 
-##Tecnologias que uso no meu dia
+##Tecnologias que uso no meu dia a dia
 <div style="display:inline_block">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
