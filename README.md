@@ -1,4 +1,5 @@
 ### Olá tudo bem?, Eu sou Raimundo Chigarisso seja bem-vindo ao meu repositorio 👋
+###### I'm here to help the world learn to code, do great things with data prowess, python lover.
 ##### Como diz o provérbio "acabei de substituir toda a sua indústria por 100 linhas de código Python."
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mz.linkedin.com/in/raimundo-chigarisso-806735231)
